@@ -1,0 +1,8 @@
+Method / Mean Accuracy / Standart deviation
+Logistic Regression / 0.6575 / 0.0632
+Linear Discriminant Analysis / 0.685 / 0.0632
+K-Neighbors Classifier / 0.6175 / 0.0714
+Decision Tree Classifier / 0.625 / 0.0427
+Gaussian Naive Bayes / 0.6612 / 0.0617
+Support Vector Machine / 0.7025 / 0.0543
+Neural Network / 0.7338 / 0.036
